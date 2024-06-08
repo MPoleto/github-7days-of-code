@@ -6,5 +6,10 @@ Neste projeto os desafios tem como foco o GitHub
 **Link do desafio:** [7 Days of Code GitHub](https://7daysofcode.io/matricula/github)
 
 ## Desafios
+
 ### 1º Dia
-Criar um repositório no GitHub
+- Criar um repositório no GitHub
+
+### 2º Dia
+- Criar arquivos HTML e CSS diretamente no GitHub
+- Fazer upload de uma pasta com imagens
