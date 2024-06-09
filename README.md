@@ -13,3 +13,6 @@ Neste projeto os desafios tem como foco o GitHub
 ### 2º Dia
 - Criar arquivos HTML e CSS diretamente no GitHub
 - Fazer upload de uma pasta com imagens
+
+### 3º Dia
+- Clonar este repositório no computador
