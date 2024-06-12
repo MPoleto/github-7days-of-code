@@ -20,8 +20,3 @@ Neste projeto os desafios tem como foco o GitHub
 ### 4º Dia
 - Alterar o arquivo ```index.html```, para ter três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente.
 - Fazer o *commit* das alterações
-
-### 5º Dia
-- Quebrar o código no arquivo ```index.html```.
-- Fazer o *commit* e o *push* para a *main* do repositório remoto.
-- Reverter o *commit* para remover os erros.
