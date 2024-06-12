@@ -25,3 +25,9 @@ Neste projeto os desafios tem como foco o GitHub
 - Quebrar o código no arquivo ```index.html```.
 - Fazer o *commit* e o *push* para a *main* do repositório remoto.
 - Reverter o *commit* para remover os erros.
+
+
+### 6º Dia
+- Alterar o arquivo ```index.html``` via GitHub.
+- Alterar o arquivo ```index.html``` no repositório local e fazer um *push* para o repositório remoto para criar um conflito.
+- Resolver o conflito e fazer o *commit* do resultado.
