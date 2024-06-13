@@ -31,3 +31,6 @@ Neste projeto os desafios tem como foco o GitHub
 - Alterar o arquivo ```index.html``` via GitHub.
 - Alterar o arquivo ```index.html``` no repositório local e fazer um *push* para o repositório remoto para criar um conflito.
 - Resolver o conflito e fazer o *commit* do resultado.
+
+### 7º Dia
+- Publicar projeto no GitHub Pages
