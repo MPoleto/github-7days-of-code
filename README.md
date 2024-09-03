@@ -1,6 +1,6 @@
 # 7 Days of Code - *GitHub*  
 
-A proposta é construir um projeto com o objetivo de praticar uma tecnologia durante 7 dias. Sendo que a cada dia é dado um desafio desenvolver do projeto. 
+A proposta é construir um projeto com o objetivo de praticar uma tecnologia durante 7 dias. Sendo que a cada dia é dado um desafio para desenvolver o projeto. 
 
 Neste projeto os desafios tem como foco o GitHub  
 **Link do desafio:** [7 Days of Code GitHub](https://7daysofcode.io/matricula/github)
@@ -18,7 +18,7 @@ Neste projeto os desafios tem como foco o GitHub
 - Clonar este repositório no computador
 
 ### 4º Dia
-- Alterar o arquivo ```index.html```, para ter três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente.
+- Alterar o arquivo ```index.html``` para ter três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente.
 - Fazer o *commit* das alterações
 
 ### 5º Dia
